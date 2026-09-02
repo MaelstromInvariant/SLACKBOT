@@ -1,76 +1,77 @@
- 🐉 SunTzu
+  SunTzu
 
- *The wise warrior knows when to fight, when to flee, and when to ask SunTzu.*
 
-SunTzu is a Slack bot that exists to provide **wisdom, chaos, and absolutely unnecessary assistance** to your workspace.
+SunTzu is a Slack bot that was made to provide **wisdom(maybe not good ones tho), jokes(WARNING: Laughing not guaranteed), random cat facts and roasts for you** in your workspace.
 
 Need a cat fact?
 Need a joke?
-Need someone to make a decision for you because apparently having free will is too much work?
+Need someone to make a decision for you because apparently using our brains even after being such an intellectually advanced species is too much work?
 
 **Ask SunTzu.**
+##  Who was Sun Tzu ?
+Sun Tzu was a Chinese military general, strategist, philosopher, and writer who lived during the Eastern Zhou period. He is famous among the modern generations through viral internet memes and for his book "The Art of War", where he describes war tactics.
 
-## ⚔️ What Can SunTzu Do?
 
-### 🏯 `/sun-tzu-ping`
+##  What does Sun Tzu do?
 
-Ask whether SunTzu is still alive.
+###  `/sun-tzu-ping`
 
-**SunTzu responds.**
+Send Sun Tzu to space! Just kidding:3!! It pings Sun Tzu.
+
+**SunTzu gets Pinged.**
 
 ---
 
-### 🐈 `/sun-tzu-catfact`
+###  `/sun-tzu-catfact`
+0o0
 
-Receive a completely unnecessary but scientifically important cat fact.
-
+Receive a scientifically accurate random cat fact!!!
+WHY??
 Because knowledge is power.
 
 ---
 
-### 🃏 `/sun-tzu-joke`
+###  `/sun-tzu-joke`
+>o<
 
-SunTzu attempts comedy.
-
-Results may vary.
-
----
-
-### 🧠 `/sun-tzu-wisdom`
-
-Receive wisdom from the ancient battlefield.
-
-Whether it is actually wise is between you and SunTzu.
+SunTzu TRIES* to crack a joke
 
 ---
 
-### 🔥 `/sun-tzu-roast`
+### `/sun-tzu-wisdom`
+o_0
 
-Feeling brave?
+If you want ancient wisdom from the ancient Chinese Battlefield.
+
+
+---
+
+###  `/sun-tzu-roast`
+0-0
+
 
 Let SunTzu judge you.
-
-**There is no honor in asking for mercy.**
+CAUTION!!: The creator of the project is not responsible for emotional damage! Use it at your own risk! ;)
 
 ---
 
-### 🎲 `/sun-tzu-decide`
+###  `/sun-tzu-decide`
+-_-
 
-Unable to make a decision?
+Unable to decide between whether to go study or make projects on star-dance??
 
-SunTzu shall decide your fate.
+SunTzu shall decide your fate.:)
 
-Choose wisely what you ask.
 
-## 🛠️ Built With
+##  Built Using
 
 * JavaScript
 * Node.js
 * Slack API
 
-## 🌐 Deployment
+## Deployment
 
-SunTzu runs on **Next**, allowing the bot to remain available 24/7.
+SunTzu runs on **Nest**, allowing the bot to remain available 24/7.
 
 The local development version can be started with:
 
@@ -85,19 +86,21 @@ When successfully started, SunTzu announces:
 bot is running!
 ```
 
-## 🔐 Secrets
+##  Secrets (shhhhh...)
 
 SunTzu uses environment variables for its configuration.
+It stores the Slack Tokens for Nest(The free server by Hackclub!).
 
 Secrets belong in `.env` / the deployment environment.
 
-**Never commit API tokens or other secrets to GitHub.**
+**Do not commit API tokens to GitHub.**
 
-## 🐉 The Art of SunTzu
+##  The Art of SunTzu
 
 SunTzu was not created to solve humanity's greatest problems.
 
 He was created to answer the important questions.
+Like-
 
 **What is a cat fact?**
 
@@ -107,14 +110,11 @@ He was created to answer the important questions.
 
 **Can you insult me?**
 
-And, most importantly:
+ Use this military general however you wish😼😼
 
-**Who should make the decision?**
 
-SunTzu.
 
----
+"To confuse ur enemy u must confuse urself"~ Sun Tzu prolly
 
-*The battlefield changes. The wisdom remains.*
-
-🐉
+Inspirations- The idea was heavily inspired from internet memes where absurd and hilarious quotes are written under the name of Sun Tzu.
+AI Usage: I didn't use any sort of AI to make the code, however I did heavily rely on ChatGPT and CoPilot to make the chatbot live.
