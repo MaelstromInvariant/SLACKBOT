@@ -32,7 +32,6 @@ Because knowledge is power.
 ---
 
 ###  `/sun-tzu-joke`
-
 >o<
 SunTzu TRIES to crack a joke
 
