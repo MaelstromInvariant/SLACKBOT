@@ -32,8 +32,8 @@ Because knowledge is power.
 ---
 
 ###  `/sun-tzu-joke`
->o<
 
+>o<
 SunTzu TRIES* to crack a joke
 
 ---
